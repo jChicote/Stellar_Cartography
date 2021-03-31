@@ -1,4 +1,4 @@
-[![LinkedIn][linkedin-shield]][linkedin-url]
+# Stellar Cartography
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
